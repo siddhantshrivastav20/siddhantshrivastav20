@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @siddhantshrivastav20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=blocage&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blocage&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 
-<!---
-siddhantshrivastav20/siddhantshrivastav20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+</p>
